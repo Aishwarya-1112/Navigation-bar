@@ -1,0 +1,13 @@
+.Header {
+  background-color: rgba(52, 56, 54, 0.663);
+  width: 100%;
+  text-align: end;
+  height: 40px;
+  padding-top: 20px;
+}
+
+a {
+  color: rgb(255, 255, 255);
+  padding: 20px;
+  text-decoration: none;
+}
